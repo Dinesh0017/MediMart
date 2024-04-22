@@ -1,0 +1,58 @@
+body{
+    background-color:#e0f8f9;
+}
+div#card{
+    height: 400px;
+    width: 250px;
+    box-shadow: 2px 2px 4px 4px #e0e0e0;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+ div#card:hover {background-color: #3e8e41}
+
+div#card:active {
+    background-color: #3e8e41;
+    box-shadow: 0 3px #666;
+    transform: translateY(4px);
+}
+img#img{
+     height: 210px;
+    width: 180px;
+    margin-left: 40px;
+    margin-right: 5px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+div#medname{
+    font-family:timesnewroman;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+div#medprice{
+    font-family:	Arial;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 10px;
+    color: #2af4e5;
+   
+    border-top: 6px;
+    padding-bottom:10px;
+}
+
+#addcart{
+    background-color: #17d2c4;
+    color: #91fffa;
+    border:none; 
+    margin-left: 80px;
+    font-size: 15px;
+}
+
+#addcart:hover {background-color: #3e8e41}
+
+#addcart:active {
+    background-color: #3e8e41;
+    box-shadow: 0 3px #666;
+    transform: translateY(4px);
+}
