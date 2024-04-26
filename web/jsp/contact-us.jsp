@@ -23,6 +23,9 @@ and open the template in the editor.
                 
             </form>
         </div>
+        <div class="confirmation-message" id="confirmation-message">
+            Thank you for contacting us! We will get back to you soon.
+        </div>
         <footer>
             <div class="copyright">
               &copy; 2024 Medimart. All rights reserved.
