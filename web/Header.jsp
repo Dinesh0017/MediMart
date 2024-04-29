@@ -129,7 +129,11 @@
                                         <a href="cart.jsp" class=""><img class="shopping-cart" src="images/ShoppingCartBlack.png" alt="shopping-cart"></a>
                                     </div>
                                     <div class="Sign-links">
+<<<<<<< Updated upstream
                                         <a href="" class="active">SIGN IN / UP</a>
+=======
+                                        <a href="login.jsp" class="active">SIGN IN / UP</a>
+>>>>>>> Stashed changes
                                     </div>
                                 </div>
                         </div>
